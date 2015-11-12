@@ -11,3 +11,4 @@ Install
 Install Meteor
 --------------
     curl https://install.meteor.com/ | sh
+    meteor create "nom de l'app"
